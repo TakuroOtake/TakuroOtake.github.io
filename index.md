@@ -5,10 +5,9 @@
 # 査読付き論文
 - **大竹拓郎**, Anawat Suppasri, Panon Latcharote, 今村文彦 : 過去400年間の地震記録に基づく過去と将来のグローバル津波ハザード評価, 土木学会論文集B2（海岸工学）, Vol.64, No.2, pp.1609-1614, 2017.
 
-# 学会発表・ポスター発表
+# 学会発表
 - **大竹拓郎**, Anawat Suppasri, 今村文彦 : 各地域の津波波形に着目したグローバル津波ハザード評価, 土木学会東北支部技術研究発表会，2018.（2018.3.3）
-- **Takuro Otake**, Anawat Suppasri, Panon Latcharote, Fumihiko Imamura : A Global Assessment of Historical and Future Tsunami Hazards based on Seismic Records over the last 400 years, 世界防災フォーラム，ポスターセッション, 2017. （2017.11.25~28）
-- **大竹拓郎**, Anawat Suppasri, Panon Latcharote, 今村文彦 : 過去400年間の地震記録に基づく過去と将来のグローバル津波ハザード評価, 第64回海岸工学講演会, 2017.（2017.10.25-27）
+- **Takuro Otake**, Anawat Suppasri, Panon Latcharote, Fumihiko Imamura : A Global Assessment of Historical and Future Tsunami Hazards based on Seismic Records over the last 400 years, World Bosai Forum 2017, Poster Session，2017.(2017.11.25~28)
 - **大竹拓郎**, Suppasri Anawat, Panon Latcharote, 今村文彦, 長谷川夏来 : 過去400年データに基づくグローバル津波ハザード評価, 土木学会東北支部技術研究発表会, 2017. (2017.3.4)
 
 # レポート
